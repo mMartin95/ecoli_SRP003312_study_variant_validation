@@ -5,5 +5,5 @@ This directory contains visual validation screenshots captured using the Integra
   - `igv_snapshots_deletion_hipA-flxA_part2.png`
   - `igv_snapshots_deletion_hipA-flxA_part3.png`
 
-- **Single Nucleotide Variant (`polA` featuring c.1168C>G **:
+- **Single Nucleotide Variant (`polA` featuring c.1168C>G**:
   - `igv_snapshots_polA_2.png`
