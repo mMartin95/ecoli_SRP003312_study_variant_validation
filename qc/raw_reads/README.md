@@ -3,4 +3,4 @@ This directory contains quality control reports for the raw paired-end E. coli r
 
 The qualisty was checked using FastQC.
 
-Links are provided in the README.md in 'qc' directory.
+Links are provided in the README.md in `qc` directory.
